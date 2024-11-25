@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP2210K-3.3TRG1")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/AP2210K-3.3TRG1/AP2210K-3.3TRG1.kicad_sym")(options "")(descr ""))
+  (lib (name "my_connectors")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/PRT-00119/PRT-00119.kicad_sym")(options "")(descr ""))
+  (lib (name "AP2210K-5.0TRG1")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/AP2210K-5.0TRG1/AP2210K-5.0TRG1.kicad_sym")(options "")(descr ""))
+)

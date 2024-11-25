@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "crystal")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/CC5V-T1A_32.768KHZ_12.5PF_20PPM_TA_QC")(options "")(descr ""))
+  (lib (name "AP2210K-3.3TRG1")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/AP2210K-3.3TRG1")(options "")(descr ""))
+  (lib (name "PRT-00119")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/PRT-00119")(options "")(descr ""))
+)
