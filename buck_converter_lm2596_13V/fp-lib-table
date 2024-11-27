@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lm2596")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/LM2596TADJG/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "input_capacitor")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/EEUFS1H681B/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "inductor")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/PE-54040NL")(options "")(descr ""))
+  (lib (name "capacitor_330")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/EEUFR1V331UB/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "lm2596tv")(type "KiCad")(uri "${KIPRJMOD}/symbol_footprint_3d/LM2596TVADJG")(options "")(descr ""))
+  (lib (name "inductor_150u")(type "KiCad")(uri "C:/Users/moina/dev/electric_circuits/buck_converter_lm2596_13V")(options "")(descr ""))
+)

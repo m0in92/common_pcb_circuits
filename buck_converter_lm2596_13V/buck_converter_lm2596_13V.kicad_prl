@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "7fcfffc_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "MCU_stm32L05.kicad_prl",
+    "filename": "buck_converter_lm2596_13V.kicad_prl",
     "version": 3
   },
   "project": {
