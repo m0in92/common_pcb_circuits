@@ -2962,18 +2962,6 @@
 	)
 	(text "LED Indicators"
 		(exclude_from_sim no)
-		(at 47.752 47.244 0)
-		(effects
-			(font
-				(size 1.905 1.905)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "146b4462-0a8b-4179-b31a-c2f3ff41de47")
-	)
-	(text "LED Indicators"
-		(exclude_from_sim no)
 		(at 190.754 75.438 0)
 		(effects
 			(font
@@ -2993,18 +2981,6 @@
 			)
 		)
 		(uuid "6456e756-5f95-46da-ad24-966ba0bbeef6")
-	)
-	(text "LED Indicators"
-		(exclude_from_sim no)
-		(at 47.752 49.784 0)
-		(effects
-			(font
-				(size 1.905 1.905)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "6590d80a-c5da-4690-b2dd-8891f169b639")
 	)
 	(text "Connections"
 		(exclude_from_sim no)
@@ -3433,7 +3409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521"
 			(at 64.77 106.68 0)
 			(effects
 				(font
@@ -4282,7 +4258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 129.2352 78.74 0)
 			(effects
 				(font
@@ -5167,7 +5143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 84.7852 93.98 0)
 			(effects
 				(font
