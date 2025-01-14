@@ -1,0 +1,9 @@
+        ,Value,Datasheet,Footprint,Qty,DNP
+"C1,C3",0.1u,~,Capacitor_SMD:C_0805_2012Metric,2,
+C2,4.7u,~,Capacitor_SMD:C_1206_3216Metric,1,
+"D1,D2,D3",LED,~,LED_SMD:LED_0603_1608Metric,3,
+FB1,600R,~,Resistor_SMD:R_1206_3216Metric,1,
+J1,USB_B_Micro,~,Connector_USB:USB_Micro-B_Wuerth_629105150521,1,
+"J2,J3",Conn_01x05,~,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,2,
+"R1,R2,R3",270,~,Resistor_SMD:R_1206_3216Metric,3,
+U1,FT232RL,https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm,1,
